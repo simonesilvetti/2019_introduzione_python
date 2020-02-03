@@ -1,5 +1,5 @@
-# Ciclo di Seminari
-## "Una introduzione a Python"
+﻿# Teaching
+### Simone Silvetti
 ### DEAMS, Università di Trieste
 
 #### Programma del corso
