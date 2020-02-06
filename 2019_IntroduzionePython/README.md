@@ -11,7 +11,7 @@
   - istruzioni condizionali (if/else)
   - cicli iterativi: while e for
   - liste, dizionari e insiemi
-  - list e set chomprehension
+  - list e set comprehension
   - funzioni
   - lambda expression
   - lettura e scrittura su file
