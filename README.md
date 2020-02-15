@@ -1,9 +1,19 @@
-﻿# Teaching
-### Simone Silvetti
+# Ciclo di Seminari
+## "Una introduzione a Python"
+### DEAMS, Università di Trieste
 
-#### 2019
-- ["Una introduzione a Python"](https://github.com/simonesilvetti/teaching/tree/master/2019_IntroduzionePython), DEAMS, Università di Trieste
-#### 2018
-- Laboratorio di programmazione, DMG, Università di Trieste
-#### 2017
-- Laboratorio di programmazione, DMG, Università di Trieste
+#### Programma del corso
+- Itroduzione ai linguaggi di programmazione
+- Python le basi
+  - idle/shell e Jupyter Notebook
+  - tipi
+  - stringhe e array
+  - istruzioni condizionali (if/else)
+  - cicli iterativi: while e for
+  - liste, dizionari e insiemi
+  - list e set comprehension
+  - funzioni
+  - lambda expression
+  - lettura e scrittura su file
+- Numpy
+- Matplotlib
