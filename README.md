@@ -35,4 +35,4 @@
 - link utili 
   - [jupyter notebook](https://jupyter.org/)
   - [coursera](https://www.coursera.org/) - video corsi
-  - [kaggle](https://www.kaggle.com/) - nella parte dedicata alla formazioni trovate una veloce introduzione a data science / machine learning. 
+  - [kaggle](https://www.kaggle.com/) - nella parte dedicata alla formazione trovate una veloce introduzione a data science / machine learning. 
